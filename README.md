@@ -1,7 +1,16 @@
 # Course-cluster-IDS90
 This project is a combination between Computer Science II (CS 112) and Accounting class (MGT 155), but most of the parts of this project are based heavily on CS.
 
-## Contents
+---
+
+### Table of content
+
+1. Classes (#Classes)
+2. How it works  (#How it works)
+
+---
+
+## Classes
 
 - A main class with javaFX for GUI and interaction with users
 - A inoutjson to save and collect data from json file
