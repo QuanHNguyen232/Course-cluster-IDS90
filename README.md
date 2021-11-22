@@ -6,7 +6,7 @@ This project is a combination between Computer Science II (CS 112) and Accountin
 ### Table of content
 
 1. [Classes](#Classes)
-2. [How it works](#How it works)
+2. [How it works](#'How it works')
 
 ---
 
