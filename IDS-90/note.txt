@@ -1,0 +1,28 @@
+Each currency has a specific link:
+	https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=SGD
+	better link:
+		https://www.x-rates.com/table/?from=USD&amount=1
+		https://www.investing.com/currencies/exchange-rates-table
+	(can use jsoup:https://jsoup.org/)
+		
+2 ways to do:
+	- (ALL java) data from java -> json -> java to visualize data (export as img) -> export everything as .pdf
+	- (java + python) data from java -> csv -> python to visualize data (export as img) -> export everything as .pdf
+	
+
+Export as PDF:
+	https://www.baeldung.com/java-pdf-creation
+	Export with img using pdfbox: https://www.geeksforgeeks.org/adding-images-to-a-table-in-pdf-using-java/
+	pdfBox tutorial: https://www.tutorialspoint.com/pdfbox/
+
+Write to PDF:
+	Libraries may help write chart from javaFX without export as img. 
+	Use ComboBox in JavaFx: http://tutorials.jenkov.com/javafx/combobox.html
+
+Export image:
+	https://www.tutorialspoint.com/how-to-create-save-the-image-of-a-javafx-pie-chart-without-actually-showing-the-window
+	
+Write/Read json:
+	https://howtodoinjava.com/java/library/json-simple-read-write-json-examples/
+	https://www.tutorialspoint.com/how-to-add-a-json-string-to-an-existing-json-file-in-java
+

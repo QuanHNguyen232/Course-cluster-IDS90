@@ -1,0 +1,1 @@
+[{"month data":"[{\"month\":\"0\",\"revenueList\":[1.1],\"expenseList\":[2.2,3.3],\"totalRevenue\":1.1,\"totalExpense\":5.5},{\"month\":\"1\",\"revenueList\":[4.4,5.5],\"expenseList\":[6.6],\"totalRevenue\":9.9,\"totalExpense\":6.6},{\"month\":\"2\",\"revenueList\":[7.7],\"expenseList\":null,\"totalRevenue\":7.7,\"totalExpense\":0.0}]"}]
