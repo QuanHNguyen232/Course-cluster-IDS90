@@ -23,7 +23,7 @@ This project is a combination between Computer Science II (CS 112) and Accountin
 ## APIs and Libraries
 
 For this project, I use these following APIs and Libraries:
-- Read/Write json: JSON.simple ([download](https://search.maven.org/artifact/com.googlecode.json-simple/json-simple/1.1.1/bundle)) and Jackson ([download](https://search.maven.org/search?q=g:com.fasterxml.jackson.core){:target="_blank"}) (download all 3 Jackson jar files ver. 2.13.0: core, databind, and annotations)
+- Read/Write json: JSON.simple ([download](https://search.maven.org/artifact/com.googlecode.json-simple/json-simple/1.1.1/bundle)) and Jackson ([download](https://search.maven.org/search?q=g:com.fasterxml.jackson.core)) (download all 3 Jackson jar files ver. 2.13.0: core, databind, and annotations)
 - Crawl web: Jsoup ([download](https://search.maven.org/artifact/org.jsoup/jsoup/1.14.3/jar))
 - Read/Write PDF: PDFBox ([download](https://search.maven.org/artifact/org.apache.pdfbox/pdfbox-app/3.0.0-alpha2/bundle))
 
